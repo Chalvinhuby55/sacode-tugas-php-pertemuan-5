@@ -6,7 +6,7 @@
     <title>Latihan1</title>
     <style>
         .warna-baris{
-            background-color: silver;
+            background-color: blue;
         }
     </style>
 </head>
